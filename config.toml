@@ -3,7 +3,7 @@ theme = "hugo-theme-codex"
 title = "Tal Paskaro"
 languageCode = "en-us"
 baseURL = "https://karopastal.github.io/"
-copyright = "© {year}"
+copyright = "Tal Paskaro © {year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
